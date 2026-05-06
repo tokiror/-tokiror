@@ -17,4 +17,4 @@ Mentor: Prof. Paul Meyer Reimer — Goshen College Physics Department
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/timothy-okiror-266033273)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/timothy-okiror-266033273)
